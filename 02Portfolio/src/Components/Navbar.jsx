@@ -26,7 +26,7 @@ const Navbar = () => {
           <FaLinkedin />
         </a>
         <a
-          href="https://github.com/usmanjamildebug"
+          href="https://github.com/usmanjamildev"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-purple-900"
